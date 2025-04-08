@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FULLRM.iml" filepath="$PROJECT_DIR$/.idea/FULLRM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project-bolt-stackblitz-starters-hep1yhpw/server/.idea/server.iml" filepath="$PROJECT_DIR$/../project-bolt-stackblitz-starters-hep1yhpw/server/.idea/server.iml" />
+    </modules>
+  </component>
+</project>
